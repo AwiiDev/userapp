@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "933297774636",
+    "firebase_url": "https://awii-application-default-rtdb.firebaseio.com",
+    "project_id": "awii-application",
+    "storage_bucket": "awii-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933297774636:android:d9cf9147287659f602b189",
+        "android_client_info": {
+          "package_name": "com.awiiapp.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1LYySHDu6jc1Fr0nKz4vYkgwqMEDJ7jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933297774636:android:ce49214000edb58d02b189",
+        "android_client_info": {
+          "package_name": "com.awiiapp.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1LYySHDu6jc1Fr0nKz4vYkgwqMEDJ7jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933297774636:android:7532fd6813c3c13f02b189",
+        "android_client_info": {
+          "package_name": "com.rydex.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1LYySHDu6jc1Fr0nKz4vYkgwqMEDJ7jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
